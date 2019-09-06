@@ -1,3 +1,3 @@
 # Delivery-Sample-
 Jan-sep 2019(Sample)
-## พี่วิทำการส่งเลขพัสดุให้ลูกค้าทุกวัน และเก็บข้อมูลการจัดส่งสินค้าไว้ใน Excel
+## stock kerry box 
